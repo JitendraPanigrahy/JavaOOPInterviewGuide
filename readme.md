@@ -1,8 +1,8 @@
-# Java OOPS Interview Guide In 2 Hours 
+# Java Basic OOPs Interview Course (Free Course)
 
-Course URL - https://www.udemy.com/course/java-oops-interview-guide-free-in-two-hours
+Course URL - https://www.udemy.com/course/java-oops-interview-preparation/
 
-Revise quickly your Java object oriented programming basic concepts.
+course will help you to understand Java OOPs basics and prepare the interview.
 
 ## Interview Questions and Answers
 
